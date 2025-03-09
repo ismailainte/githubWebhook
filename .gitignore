@@ -12,10 +12,10 @@ logs/
 *.log
 
 # Ignore data files (except initial commit)
-# data/latest_project.txt
+data/latest_project.txt
 
 # Ignore future changes to JSON after initial commit
-# data/community_projects.json
+data/community_projects.json
 
 # OS-specific files
 .DS_Store
