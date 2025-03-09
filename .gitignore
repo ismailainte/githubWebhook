@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Ignore data files (except initial commit)
+# data/latest_project.txt
+
+# Ignore future changes to JSON after initial commit
+# data/community_projects.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# PM2 logs (if using PM2)
+pm2.log
